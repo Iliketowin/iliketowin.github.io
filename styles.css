@@ -1,0 +1,19 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-link {
+    font-size: 13px;
+}
+a.navbar-brand img {
+    width: 50px;
+}
+
+.jumbotron {
+    background-image: url(Trump\ homepage.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    padding-top: 100px;
+}
